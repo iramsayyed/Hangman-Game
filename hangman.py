@@ -7,7 +7,7 @@ print("Good Luck",name,";-)")
 
 words=["india","china","pakistan","iran","dubai"]
 word=random.choice(words)
-print(word)
+
 
 print("Guess the character")
 
