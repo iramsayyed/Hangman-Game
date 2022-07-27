@@ -97,8 +97,5 @@ while turns > 0:
 
 
 
-    # if turns ==9:
-    #     print("Sorry!!",name,"You loose :-]")
-    #     print("the word is",word)
-
+   
 
